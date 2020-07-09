@@ -1,5 +1,4 @@
-#English
-# CodeIgniter3-SimpleCRUD
+# [English] CodeIgniter3-SimpleCRUD
 
 Features
 
@@ -14,8 +13,7 @@ Thankyou!
 
 
 
-#Indonesian
-# CodeIgniter3-SimpleCRUD
+# [Indonesia] CRUD Sederhana Menggunakan CodeIgniter 3.1
 
 Fitur-Fitur
 
